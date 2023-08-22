@@ -1,0 +1,15 @@
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/repository/ProductRepository.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/domain/ProductVariant.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/DstechnotroveApplication.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/controller/ProductVariantController.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/service/CategoryService.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/repository/ProductVariantRepository.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/service/ProductVariantService.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/domain/Category.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/service/ProductService.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/controller/CategoryController.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/domain/Product.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/repository/CategoryRepository.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/resource/CategoryResource.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/exception/ResourceNotFoundException.java
+/Users/dealshare/Downloads/dstechnotrove/src/main/java/com/example/dstechnotrove/controller/ProductController.java

@@ -1,0 +1,15 @@
+com/example/dstechnotrove/service/ProductService.class
+com/example/dstechnotrove/exception/ResourceNotFoundException.class
+com/example/dstechnotrove/service/ProductVariantService.class
+com/example/dstechnotrove/resource/CategoryResource.class
+com/example/dstechnotrove/repository/ProductVariantRepository.class
+com/example/dstechnotrove/controller/ProductVariantController.class
+com/example/dstechnotrove/repository/CategoryRepository.class
+com/example/dstechnotrove/controller/CategoryController.class
+com/example/dstechnotrove/domain/ProductVariant.class
+com/example/dstechnotrove/domain/Product.class
+com/example/dstechnotrove/repository/ProductRepository.class
+com/example/dstechnotrove/controller/ProductController.class
+com/example/dstechnotrove/service/CategoryService.class
+com/example/dstechnotrove/domain/Category.class
+com/example/dstechnotrove/DstechnotroveApplication.class
